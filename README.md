@@ -12,17 +12,6 @@ This repo contains exercises, experiments, and projects built while learning:
 - Cross-program invocations  
 - Transaction workflows  
 - Security best practices
-
----
-
-## 📁 What’s Inside
-
-- **/lessons** — Notes and explanations from each week  
-- **/programs** — Anchor-based smart contract implementations  
-- **/clients** — Frontend and script-based Solana interactions  
-- **/experiments** — Scratch files, tests, prototypes  
-- **README.md** — Overview of the entire journey
-
 ---
 
 ## 🎯 Goal
